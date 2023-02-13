@@ -1,1 +1,2 @@
-console.log('testing')
+import './log'
+// import './assert'
