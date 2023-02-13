@@ -1,3 +1,3 @@
-# NPM-Util-Template
+# 0log
 
-> NPM 工具方法包模板
+> `console.log`  Secondary packaging

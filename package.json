@@ -1,7 +1,7 @@
 {
-  "name": "package-name",
+  "name": "0log",
   "version": "0.0.1",
-  "description": "npm 方法 工具包 模板",
+  "description": "console.log Secondary packaging",
   "author": "ruihuag",
   "module": "lib/index.esm.js",
   "main": "lib/index.js",
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:guanruihua/npm-util-template.git"
+    "url": "git@github.com:guanruihua/0log.git"
   },
   "files": [
     "package.json",
     "README.md",
     "LICENSE"
   ],
-  "bugs": "https://github.com/guanruihua/npm-util-template/issues",
+  "bugs": "https://github.com/guanruihua/0log/issues",
   "homepage": "",
   "keywords": [],
   "devDependencies": {
