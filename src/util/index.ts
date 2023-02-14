@@ -1,4 +1,2 @@
-// temp function
-export function log(){
-	console.log('Hello World')
-}
+export * from './constant'
+export * from './getTypeStr'
