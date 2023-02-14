@@ -1,2 +1,5 @@
 export * from './log'
-export * from './noEncapsulation'
+export * from './table'
+export * from './group'
+
+export * from './config'

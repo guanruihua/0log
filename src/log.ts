@@ -20,3 +20,18 @@ export function debug(...rest: unknown[]) {
 export function error(...rest: unknown[]) {
 	console.debug(...logParams(rest))
 }
+
+export function info(...rest) {
+	console.info(...logParams(rest))
+	return;
+}
+
+export function assert(assertion: boolean, ...rest: unknown[]) {
+	console.assert(assertion, ...logParams(rest))
+	return;
+}
+
+export function trace(...rest) {
+	console.trace(...logParams(rest))
+	return;
+}
