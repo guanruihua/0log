@@ -13,6 +13,7 @@
     "test": "ts-node-dev --respawn --transpile-only ./test/index.ts",
     "build": "npx rollup -c ./config/rollup.build.ts",
     "prepare": "husky install",
+    "pub": "npm publish",
     "commitlint": "commitlint -e"
   },
   "husky": {
