@@ -1,4 +1,5 @@
-import { isArray, isObject, ObjectType, stringify } from 'abandonjs'
+import { ObjectType, stringify } from 'abandonjs'
+import { isArray, isObject } from 'asura-eye'
 import { getTypeStr } from './util'
 
 function logParams(params: unknown) {

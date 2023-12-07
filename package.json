@@ -1,6 +1,6 @@
 {
   "name": "0log",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "console.log Secondary packaging",
   "author": "ruihuag",
   "module": "lib/index.esm.js",
@@ -25,11 +25,6 @@
     "type": "git",
     "url": "git@github.com:guanruihua/0log.git"
   },
-  "files": [
-    "package.json",
-    "README.md",
-    "LICENSE"
-  ],
   "bugs": "https://github.com/guanruihua/0log/issues",
   "homepage": "",
   "keywords": [
@@ -45,8 +40,8 @@
     "@types/node": "^18.11.2",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "@typescript-eslint/parser": "^5.40.1",
-    "abandonjs": "^2.5.3",
-    "check-it-type": "^0.1.8",
+    "abandonjs": "^3.5.0",
+    "asura-eye": "^0.7.0",
     "eslint": "^8.25.0",
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.1",

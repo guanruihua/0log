@@ -1,5 +1,5 @@
 import { color } from 'rh-color'
-import { type } from 'check-it-type'
+import { type } from 'asura-eye'
 import { __0__log__config__ } from '../config'
 import { ObjectType } from 'abandonjs'
 
