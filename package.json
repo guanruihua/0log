@@ -1,6 +1,6 @@
 {
   "name": "0log",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "console.log Secondary packaging",
   "author": "ruihuag",
   "module": "lib/index.esm.js",
